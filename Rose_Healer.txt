@@ -1,0 +1,4 @@
+prontera  script  Healer  100,{
+percentheal 100,100;
+end;
+} 
